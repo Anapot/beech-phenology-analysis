@@ -2,7 +2,7 @@
 
 This folder is a publication-ready analysis companion repository for the corrected article on European beech spring phenology in Slovenia.
 
-Copyright (c) 2026 Ana Potočnik Buhvald, Krištof Oštir, and Miha Skudnik.
+Copyright (c) 2026 Ana Potočnik Buhvald, Krištof Oštir, and Mitja Skudnik.
 
 This repository directly supports the related publication and focuses on the reproducible analysis components needed for the article-level results.
 
@@ -115,4 +115,4 @@ The notebook writes regenerated figures and tables into:
 
 Reference tables from the current corrected analysis are already archived in `reference_outputs/tables/` so readers can compare regenerated outputs against the present repository state.
 
-Copyright (c) 2026 Ana Potočnik Buhvald, Krištof Oštir, and Miha Skudnik.
+Copyright (c) 2026 Ana Potočnik Buhvald, Krištof Oštir, and Mitja Skudnik.
