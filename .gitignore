@@ -1,0 +1,8 @@
+data/external/zenodo_sos_layers/*
+data/external/public_dem/*
+outputs/figures/*
+outputs/tables/*
+!data/external/zenodo_sos_layers/.gitkeep
+!data/external/public_dem/.gitkeep
+!outputs/figures/.gitkeep
+!outputs/tables/.gitkeep

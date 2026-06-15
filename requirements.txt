@@ -1,0 +1,9 @@
+pandas
+numpy
+geopandas
+rasterio
+scipy
+statsmodels
+matplotlib
+notebook
+jupyter
