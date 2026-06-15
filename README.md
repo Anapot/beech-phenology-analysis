@@ -2,6 +2,18 @@
 
 This folder is a publication-ready analysis companion repository for the corrected article on European beech spring phenology in Slovenia.
 
+Copyright (c) 2026 Ana Potočnik Buhvald, Krištof Oštir, and Miha Skudnik.
+
+This repository directly supports the related publication and focuses on the reproducible analysis components needed for the article-level results.
+
+## Related publication
+
+Potočnik Buhvald, A., Oštir, K., & Skudnik, M. *Interannual variability of European beech spring phenology across elevation gradients derived from Sentinel-2 time series*. Preprint DOI: 10.2139/ssrn.6568982.
+
+This notebook analyzes the relationship between SOS timing and elevation for multiple years. It produces year-specific regression summaries, binned elevational response curves, and a multi-year comparison plot.
+
+The workflow is intentionally limited to the components needed for this analysis so that the public release remains concise and easy to reproduce.
+
 Its scope is intentionally narrow and follows the article's Data availability statement:
 
 - this repository reproduces the manuscript analyses, summary tables, and figures;
@@ -102,3 +114,5 @@ The notebook writes regenerated figures and tables into:
 - `outputs/tables/`
 
 Reference tables from the current corrected analysis are already archived in `reference_outputs/tables/` so readers can compare regenerated outputs against the present repository state.
+
+Copyright (c) 2026 Ana Potočnik Buhvald, Krištof Oštir, and Miha Skudnik.
