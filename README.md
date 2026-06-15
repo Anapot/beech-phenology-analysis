@@ -54,8 +54,11 @@ This repository is built to sit cleanly beside that statement: it reproduces the
    Expected location: `data/external/zenodo_sos_layers/`
 
 2. Public DEM for the elevation-based analyses
-   Suggested source: Copernicus DEM
+   The original study used a DEM source that cannot be redistributed publicly in this repository. For the public reproducibility workflow, we recommend replacing the DEM input with the openly available Copernicus DEM collection:
+   Copernicus DEM: <https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM>
    Expected location: `data/external/public_dem/`
+
+Because terrain-derived variables depend on the input DEM, some numerical results may differ slightly from those reported in the manuscript when the public DEM replacement is used. The analytical workflow remains the same, but small differences in slopes, bin averages, and derived statistics are expected.
 
 The notebook assumes the SOS raster filenames follow the Zenodo naming used in the manuscript, for example:
 
